@@ -1,0 +1,4 @@
+org\joaquingonzalez\webapp\service\ProductoService.class
+org\joaquingonzalez\webapp\servlet\ProductoServlet.class
+org\joaquingonzalez\webapp\service\IProductoService.class
+org\joaquingonzalez\webapp\servlet\Producto.class
